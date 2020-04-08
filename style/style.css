@@ -8,8 +8,18 @@
     background-color: black;
 
 }
+/*Begin Верхнии картинки-ссылки*/
 .vk{
     background: url(../pictures/vk.png) no-repeat center;
+    width: 30px;
+    height: 30px;
+    float: right;
+    
+    padding-top: 20px; 
+    padding-right: 5px;
+}
+.vk:hover{
+    background: url(../pictures/vk2.png) no-repeat center;
     width: 30px;
     height: 30px;
     float: right;
@@ -28,3 +38,13 @@
     padding-right: 20px;
     
 }
+.fb:hover{
+    background: url(../pictures/fb2.png) no-repeat center;
+    width: 30px;
+    height: 30px;
+    float: right;
+    padding-top: 20px;
+    padding-right: 20px;
+    
+}
+/*End Верхнии картинки-ссылки*/
