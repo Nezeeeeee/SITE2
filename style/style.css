@@ -1,0 +1,18 @@
+
+.headerDI{
+    width: auto;
+    height: 45px;
+    background-color: black;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+a.vk{
+    width: 15px;
+    height: 15px;
+    background: url(pictures/vk.png);
+    
+}
+.fb{
+    background-image: url(pictures/fb.png);
+    
+}
