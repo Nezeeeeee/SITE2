@@ -24,8 +24,12 @@ body{
 .header_h1{
     position: absolute;
     color: gray;
-    margin-left: 50%;
-    padding-top: 5px;
+    margin-left: 540px;
+    
+    
+    padding-top: 2px;
+    font-family: 'Indie Flower', cursive;
+    
     
     
 }
@@ -93,3 +97,63 @@ margin-top: 15px;
     margin-top: -23px;
 }
 /*End поиск*/
+
+
+/*Begin/ reviewsh1*/
+.reviewsh1{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    
+}
+/*End/ reviewsh1*/
+
+
+/*Begin reviews*/
+.reviews{
+    
+    height: 300px;
+    width: 300px;
+    margin-top: 5px;
+    margin-left: 30px;
+    font-family: 'Indie Flower', cursive;
+    
+    
+}
+.reviews1{
+    position: absolute;
+    display: inline-block;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    border: 2px solid red;
+    
+}
+.reviews2{
+    position: absolute;
+    display: inline-block;
+    width: 400px;
+    height: 300px;
+    margin-left: 450px;
+    text-align: center;
+    border: 2px solid red;
+}
+.reviews3{
+    position: absolute;
+    display: inline-block;
+    width: 400px;
+    height: 300px;
+    margin-left: 900px;
+    text-align: center;
+    border: 2px solid red;
+    
+}
+
+/*End reviews*/
+
+
+/*Begin Шрифты*/
+@font-face{
+    font-family: 'Indie Flower', cursive;
+    src: url(https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap);
+}
+/*End Шрифты*/
