@@ -1,3 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+body{
+    margin: 0px;
+}
+
 
 .headerDI{
     width: auto;
@@ -7,6 +20,14 @@
     padding-top: 0px;
     background-color: black;
 
+}
+.header_h1{
+    position: absolute;
+    color: gray;
+    margin-left: 50%;
+    padding-top: 5px;
+    
+    
 }
 /*Begin Верхнии картинки-ссылки*/
 .vk{
@@ -48,3 +69,27 @@
     
 }
 /*End Верхнии картинки-ссылки*/
+
+/*Begin поиск*/
+.inputtext{
+margin-top: 15px;
+}
+.picsearch{
+    position: relative;
+    background: url(../pictures/search.png);
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-left: 180px;
+    margin-top: -23px;
+}
+.picsearch:hover{
+    position: relative;
+    background: url(../pictures/search2.png);
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-left: 180px;
+    margin-top: -23px;
+}
+/*End поиск*/
