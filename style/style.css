@@ -5,6 +5,7 @@
 header{
     margin-top: 0px;
     padding-top: 0px;
+    background-color: gray;
 }
 
 body{
@@ -103,6 +104,7 @@ margin-top: 15px;
 .reviewsh1{
     text-align: center;
     font-family: 'Indie Flower', cursive;
+    background-color: gray;
     
 }
 /*End/ reviewsh1*/
@@ -119,13 +121,18 @@ margin-top: 15px;
     
     
 }
+.revh1{
+    color: navajowhite;
+}
 .reviews1{
     position: absolute;
     display: inline-block;
     width: 400px;
     height: 300px;
     text-align: center;
-    border: 2px solid red;
+    border: 0.5px solid red;
+    background-color: rgba(115, 198, 247, 0.568);
+    
     
 }
 .reviews2{
@@ -135,7 +142,9 @@ margin-top: 15px;
     height: 300px;
     margin-left: 450px;
     text-align: center;
-    border: 2px solid red;
+    border: 0.5px solid red;
+    background-color: rgba(115, 198, 247, 0.568);
+    
 }
 .reviews3{
     position: absolute;
@@ -144,7 +153,9 @@ margin-top: 15px;
     height: 300px;
     margin-left: 900px;
     text-align: center;
-    border: 2px solid red;
+    border: 0.5px solid red;
+    background-color: rgba(115, 198, 247, 0.568);
+    
     
 }
 
