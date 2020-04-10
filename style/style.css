@@ -171,6 +171,7 @@ margin-top: 15px;
 
 /*Begin content*/
 .menu{
+    height: 40px;
     display: inline-flex;
     text-align: center;
     margin-left: 300px;
@@ -198,8 +199,20 @@ a:hover{
     
     
 }
+.conpicmain:hover{
+    background: url(../pictures/main2.png) no-repeat left center;
+    margin-left: 200px;
+    padding-left: 30px;
+    
+    
+}
 .conpicnews{
     background: url(../pictures/news.png) no-repeat left center;
+    margin-left: 200px;
+    padding-left: 30px;
+}
+.conpicnews:hover{
+    background: url(../pictures/news2.png) no-repeat left center;
     margin-left: 200px;
     padding-left: 30px;
 }
@@ -209,8 +222,20 @@ a:hover{
     padding-left: 30px;
     
 }
+.conpiccontacts:hover{
+    background: url(../pictures/contacts2.png) no-repeat left center;
+    margin-left: 200px;
+    padding-left: 30px;
+    
+}
 .conpicabout{
     background: url(../pictures/about.png) no-repeat left center;
+    margin-left: 200px;
+    margin-right: 50px;
+    padding-left: 30px;
+}
+.conpicabout:hover{
+    background: url(../pictures/about2.png) no-repeat left center;
     margin-left: 200px;
     margin-right: 50px;
     padding-left: 30px;
