@@ -255,3 +255,11 @@ a:hover{
     margin-top: 100px;
     position: relative;
 }
+.articleh1{
+    font-size: 20px;
+    color: black;
+}
+.articleh1:hover{
+    color: rebeccapurple;
+    font-size: 22px;
+}
