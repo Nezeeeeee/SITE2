@@ -256,10 +256,10 @@ a:hover{
     position: relative;
 }
 .articleh1{
-    font-size: 20px;
+    font-size: 15px;
     color: black;
 }
 .articleh1:hover{
     color: rebeccapurple;
-    font-size: 22px;
+    font-size: 17px;
 }
