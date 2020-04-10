@@ -172,7 +172,7 @@ margin-top: 15px;
 /*Begin content*/
 .menu{
     height: 40px;
-    display: inline-flex;
+    
     text-align: center;
     margin-left: 300px;
     float: right;
@@ -241,3 +241,15 @@ a:hover{
     padding-left: 30px;
 }
 /*End content*/
+
+
+.article{
+    width: 900px;
+    text-align: left;
+    clear: left;
+}
+
+.copy{
+    text-align: center;
+    position: relative;
+}
