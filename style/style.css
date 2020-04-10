@@ -120,6 +120,7 @@ margin-top: 15px;
     font-family: 'Indie Flower', cursive;
     
     
+    
 }
 .revh1{
     color: navajowhite;
@@ -154,10 +155,9 @@ margin-top: 15px;
     margin-left: 900px;
     text-align: center;
     border: 0.5px solid red;
-    background-color: rgba(115, 198, 247, 0.568);
-    
-    
+    background-color: rgba(115, 198, 247, 0.568); 
 }
+
 
 /*End reviews*/
 
@@ -168,3 +168,51 @@ margin-top: 15px;
     src: url(https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap);
 }
 /*End Шрифты*/
+
+/*Begin content*/
+.menu{
+    display: inline-flex;
+    text-align: center;
+    margin-left: 300px;
+    float: right;
+    
+    
+    
+}
+a{
+    text-decoration: none;
+    color: teal;
+    font-size: 35px;
+    
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+    font-size: 38px;
+
+}
+.conpicmain{
+    background: url(../pictures/main.png) no-repeat left center;
+    margin-left: 200px;
+    padding-left: 30px;
+    
+    
+}
+.conpicnews{
+    background: url(../pictures/news.png) no-repeat left center;
+    margin-left: 200px;
+    padding-left: 30px;
+}
+.conpiccontacts{
+    background: url(../pictures/contacts.png) no-repeat left center;
+    margin-left: 200px;
+    padding-left: 30px;
+    
+}
+.conpicabout{
+    background: url(../pictures/about.png) no-repeat left center;
+    margin-left: 200px;
+    margin-right: 50px;
+    padding-left: 30px;
+}
+/*End content*/
